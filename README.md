@@ -34,6 +34,6 @@
 ## Visitas
 <div align="center">
     <p> 
-       <img alingn="center" src="https://profile-counter.glitch.me/pedromoreira49/count.svg" />
+       <img alingn="center" src="https://profile-counter.glitch.me/pedromoreira496/count.svg" />
     </p>
 </div>
