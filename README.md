@@ -1,5 +1,10 @@
-# Olá, me chamo Pedro Moreira !
-## Bem vindo ao meu perfil GitHub 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09d61a&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09d61a&size=30&center=true&vCenter=true&width=900&lines=Olá,+me+chamo+Pedro+Moreira;Tenho+23+anos;Sou+desenvolvedor+mobile+e+backend;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedromoreira496&bg_color=0d1117&color=3acf46&line=234a27&point=be7fec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 - 🔭 Atualmente estou trabalhando em Desenvolvimento de aplicativos.
 - 🌱 Atualmente estou aprendendo Spring-boot.
@@ -37,3 +42,5 @@
        <img alingn="center" src="https://profile-counter.glitch.me/pedromoreira496/count.svg" />
     </p>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09d61a&height=120&section=footer"/>
